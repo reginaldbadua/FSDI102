@@ -1,0 +1,18 @@
+FUNCTIONALITY;
+capture scores
+average
+rank
+
+
+function capture (studentID,score)
+    DO prompt instructor to enter score according to studentID
+    save score
+
+function average (number of grades, score, number of scores)
+    INSERT score1, score2,score3, to scoreX
+    sum = score1, score2,score3, to scoreX
+    average = sum/number of scores
+
+function rank (studentID, score)
+INSERT X and Y;
+ordered list (x and y)                 
